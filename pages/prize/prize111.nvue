@@ -1,0 +1,69 @@
+<template>
+	<view  style="flex:1" >
+		<web-view 
+			style="flex:1;top:-48px;" 
+			ref="webview" 
+			:webview-styles="webviewStyles" 
+			:src="webviewSrc" 
+			@message="onMessage"
+		></web-view>
+	</view>
+</template>
+
+<script>
+	var wv;//计划创建的webview
+	export default {
+		data() {
+			return {
+				iStatusBarHeight: 0,
+				webviewSrc:'https://koudai.17itou.com/94/prizehall/?back=%2F675%2Fuser%2F491%2Fshop%2Fdetails%2Fmylist_PmnZe.html%3Fid%3D54275526%26station_uuid%3Db9cfdcrpfsj3fd1661155817%26back%3D%252F',
+				webviewStyles: {
+					progress: {
+						color: '#FF3333'
+					}
+				},
+			}
+		},
+		
+		onBackPress(options){
+			console.log('options',options)
+			if(this.canGoBack){
+				// this.$refs.webview.postMessage({type:'goBack'})
+				return true
+			}
+			return false;
+		},
+		
+		
+		methods: {
+			onMessage: function(e) {
+				console.log('Webview URL changed:', e.detail.data.url);
+			},
+
+			// 调用 webview 内部逻辑
+			evalJs: function() {
+				const jsCode = `
+					var headers = document.getElementsByTagName('header');
+					for (var i = 0; i < headers.length; i++) {
+					    headers[i].style.display = 'none';
+					};
+				`;
+				this.$refs.webview.evalJs(jsCode);
+			},
+			
+		},
+	    onLoad() {
+	  	   this.iStatusBarHeight = uni.getSystemInfoSync().statusBarHeight;
+		   this.timer = setInterval(()=>{
+			   this.evalJs()
+		   },100)
+	    },
+		onUnload(){
+			 this.timer && clearInterval(this.timer)
+		}
+	}
+</script>
+
+<style>
+
+</style>

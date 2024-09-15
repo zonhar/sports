@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8da95c3f-3e1b-456a-8be9-4020e50fce48" name="Changes" comment="解决冲突">
+      <change beforePath="$PROJECT_DIR$/common/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/common/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fPbY7xrXk1xuexfMA8Bv9l2q0f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zshtc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8da95c3f-3e1b-456a-8be9-4020e50fce48" name="Changes" comment="" />
+      <created>1713705705095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713705705095</updated>
+      <workItem from="1713705706365" duration="376000" />
+      <workItem from="1714660190010" duration="42000" />
+      <workItem from="1714666109366" duration="640000" />
+      <workItem from="1714905876138" duration="46000" />
+      <workItem from="1715175724024" duration="2104000" />
+      <workItem from="1715255083339" duration="16000" />
+      <workItem from="1715349086971" duration="8000" />
+      <workItem from="1715440292946" duration="29000" />
+      <workItem from="1715492936359" duration="3000" />
+      <workItem from="1715493657262" duration="10000" />
+      <workItem from="1715524382729" duration="2930000" />
+      <workItem from="1715777034327" duration="16000" />
+      <workItem from="1715790785788" duration="613000" />
+      <workItem from="1715945935559" duration="112000" />
+      <workItem from="1715991944000" duration="443000" />
+      <workItem from="1716031793060" duration="438000" />
+      <workItem from="1716033159756" duration="37000" />
+      <workItem from="1716046244821" duration="3659000" />
+      <workItem from="1716217936027" duration="291000" />
+      <workItem from="1716384362618" duration="141000" />
+      <workItem from="1716391159881" duration="7000" />
+      <workItem from="1716396336457" duration="686000" />
+      <workItem from="1716568088549" duration="17000" />
+      <workItem from="1716569434119" duration="33000" />
+      <workItem from="1716733928706" duration="336000" />
+      <workItem from="1716741699771" duration="484000" />
+      <workItem from="1716743385574" duration="2901000" />
+      <workItem from="1717251016495" duration="36000" />
+      <workItem from="1717336773992" duration="610000" />
+      <workItem from="1717340015505" duration="1192000" />
+      <workItem from="1717592884172" duration="2956000" />
+      <workItem from="1717769756002" duration="1209000" />
+      <workItem from="1718028757893" duration="690000" />
+      <workItem from="1718297147942" duration="37000" />
+      <workItem from="1718374447597" duration="152000" />
+      <workItem from="1718415572477" duration="179000" />
+      <workItem from="1718428998677" duration="62000" />
+      <workItem from="1718454569130" duration="1664000" />
+    </task>
+    <task id="LOCAL-00001" summary="修复已知问题">
+      <created>1714666134102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714666134102</updated>
+    </task>
+    <task id="LOCAL-00002" summary="完成部分清账页面">
+      <created>1715536863387</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715536863387</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完成部分清账页面">
+      <created>1715536907314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715536907314</updated>
+    </task>
+    <task id="LOCAL-00004" summary="完成清账页面、以及接口对接">
+      <created>1715623848837</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715623848837</updated>
+    </task>
+    <task id="LOCAL-00005" summary="完成任选9、14场、足球详情页">
+      <created>1715790833147</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715790833147</updated>
+    </task>
+    <task id="LOCAL-00006" summary="详情页(1)">
+      <created>1715992355022</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715992355022</updated>
+    </task>
+    <task id="LOCAL-00007" summary="完成提前到店，大乐透、七星彩确认订单页面">
+      <created>1716046318168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716046318168</updated>
+    </task>
+    <task id="LOCAL-00008" summary="排列5订单详情页">
+      <created>1716049794535</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716049794535</updated>
+    </task>
+    <task id="LOCAL-00009" summary="app增加传票显示">
+      <created>1716133798122</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716133798122</updated>
+    </task>
+    <task id="LOCAL-00010" summary="完成app升级覆盖功能">
+      <created>1716396394489</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716396394489</updated>
+    </task>
+    <task id="LOCAL-00011" summary="完成所有玩法介绍">
+      <created>1716904535273</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716904535274</updated>
+    </task>
+    <task id="LOCAL-00012" summary="解决冲突">
+      <created>1718415662697</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718415662697</updated>
+    </task>
+    <task id="LOCAL-00013" summary="解决冲突">
+      <created>1718687292655</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718687292655</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修复已知问题" />
+    <MESSAGE value="完成部分清账页面" />
+    <MESSAGE value="完成清账页面、以及接口对接" />
+    <MESSAGE value="完成任选9、14场、足球详情页" />
+    <MESSAGE value="详情页(1)" />
+    <MESSAGE value="完成提前到店，大乐透、七星彩确认订单页面" />
+    <MESSAGE value="排列5订单详情页" />
+    <MESSAGE value="app增加传票显示" />
+    <MESSAGE value="完成app升级覆盖功能" />
+    <MESSAGE value="完成所有玩法介绍" />
+    <MESSAGE value="解决冲突" />
+    <option name="LAST_COMMIT_MESSAGE" value="解决冲突" />
+  </component>
+</project>

@@ -1,0 +1,673 @@
+{
+	"pages": [
+		// pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/tabBar/home/home",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "vertical",
+					"titleNView": {
+						// "buttons": [{
+						// 	"text": "\ue534",
+						// 	"fontSrc": "/static/uni.ttf",
+						// 	"fontSize": "22px",
+						// 	"color": "#FFFFFF"
+						// }]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/tabBar/my/my",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "我的账户",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "vertical",
+					"titleNView": {
+						// "buttons": [{
+						// 	"text": "\ue534",
+						// 	"fontSrc": "/static/uni.ttf",
+						// 	"fontSize": "22px",
+						// 	"color": "#FFFFFF"
+						// }]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/tabBar/ledger/ledger",
+			"style": {
+				"navigationBarTitleText": "店内账本",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "vertical",
+					"titleNView": {
+						"buttons": [{
+							// "text": "\ue534",
+							// "fontSrc": "/static/uni.ttf",
+							// "fontSize": "22px"
+						}]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/tabBar/record/record",
+			"style": {
+				"navigationBarTitleText": "选号记录",
+				"enablePullDownRefresh": true,
+				"app-plus": {
+					"bounce": "vertical",
+					"titleNView": {
+						// "buttons": [{
+						// 	"text": "\ue534",
+						// 	"fontSrc": "/static/uni.ttf",
+						// 	"fontSize": "22px",
+						// 	"color": "#FFFFFF"
+						// }]
+					}
+				}
+			}
+		},
+		{
+			"path" : "pages/choose/football",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		
+},
+{
+	"path" : "pages/scan/scan",
+	"style" : 
+	{
+		"navigationBarTitleText" : "扫码进店",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/share/share",
+	"style" : 
+	{
+		"navigationStyle": "custom",
+		"navigationBarTitleText" : "",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/explain/explain",
+	"style" : 
+	{
+		"navigationBarTitleText" : "参考数据服务说明",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/explain/guessOne",
+	"style" : 
+	{
+		"navigationBarTitleText" : "带你快速上手猜一场",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/shop/shop",
+	"style" : 
+	{
+		"navigationBarTitleText" : "店铺介绍",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/shop/shopTip1",
+	"style" : 
+	{
+		"navigationBarTitleText" : "代存票说明",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/shop/shopTip2",
+	"style" : 
+	{
+		"navigationBarTitleText" : "代兑付说明",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/shop/shopTip3",
+	"style" : 
+	{
+		"navigationBarTitleText" : "店内账本说明",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/basketball",
+	"style" : 
+	{
+		"navigationStyle": "custom",
+		"navigationBarTitleText" : "",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/football14",
+	"style" : 
+	{
+		"navigationStyle": "custom",
+		"navigationBarTitleText" : "",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/football9",
+	"style" : 
+	{
+		"navigationStyle": "custom",
+		"navigationBarTitleText" : "",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/bjdc",
+	"style" : 
+	{
+		"navigationStyle": "custom",
+		"navigationBarTitleText" : "",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/vs",
+	"style" : 
+	{
+		"navigationStyle": "custom",
+		"navigationBarTitleText" : "",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/dlt",
+	"style" : 
+	{
+		"navigationStyle": "custom",
+		"navigationBarTitleText" : "",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/prize/prize",
+	"style" : 
+	{
+		// "navigationStyle": "custom",
+		"navigationBarTitleText" : "开奖大厅",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/seven",
+	"style" : 
+	{
+		"navigationStyle": "custom",
+		"navigationBarTitleText" : "",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/five",
+	"style" : 
+	{
+		"navigationStyle": "custom",
+		"navigationBarTitleText" : "",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/three",
+	"style" : 
+	{
+		"navigationStyle": "custom",
+		"navigationBarTitleText" : "",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/threeNext",
+	"style" : 
+	{
+		"navigationBarTitleText" : "确认选号",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/fiveNext",
+	"style" : 
+	{
+		"navigationBarTitleText" : "确认选号",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/login/login",
+	"style" : 
+	{
+		"navigationBarTitleText" : "登陆",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/login/otherLogin",
+	"style" : 
+	{
+		"navigationBarTitleText" : "用户登陆",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/personal/personal",
+	"style" : 
+	{
+		"navigationBarTitleText" : "个人信息",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/service/service",
+	"style" : 
+	{
+		"navigationBarTitleText" : "本店联系方式",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/ledgerDetail/ledgerDetail",
+	"style" : 
+	{
+		"enablePullDownRefresh": true,
+		"navigationBarTitleText" : "账本明细"
+	}
+},
+{
+	"path" : "pages/login/register",
+	"style" : 
+	{
+		"navigationBarTitleText" : "用户注册",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/footballmore",
+	"style" : 
+	{
+		"navigationBarTitleText" : "更多玩法",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/choose/basketballmore",
+	"style" : 
+	{
+		"navigationBarTitleText" : "更多玩法",
+		"enablePullDownRefresh" : false
+	}
+},
+{
+	"path" : "pages/tabBar/record/component/jczqOrderDetails/jczqOrderDetails",
+	"style" : 
+	{
+		"navigationBarTitleText" : "竞彩足球详情"
+	}
+},
+{
+	"path" : "pages/tabBar/record/component/jclqOrderDetails/jclqOrderDetails",
+	"style" : 
+	{
+		"navigationBarTitleText" : "竞彩篮球详情"
+	}
+},
+{
+	"path" : "pages/tabBar/record/component/football14/football14",
+	"style" : 
+	{
+		"navigationBarTitleText" : "足球14场详情"
+	}
+},
+{
+	"path" : "pages/tabBar/record/component/football9/football9",
+	"style" : 
+	{
+		"navigationBarTitleText" : "任选9场详情"
+	}
+},
+{
+	"path" : "pages/tabBar/record/component/pl3/pl3",
+	"style" : 
+	{
+		"navigationBarTitleText" : "排列3"
+	}
+},
+{
+	"path" : "pages/tabBar/record/component/pl5/pl5",
+	"style" : 
+	{
+		"navigationBarTitleText" : "排列5详情"
+	}
+},
+{
+	"path" : "pages/tabBar/record/component/beijindanchang/beijindanchang",
+	"style" : 
+	{
+		"navigationBarTitleText" : "北京单场详情"
+	}
+},
+{
+	"path" : "pages/tabBar/record/component/sfpass/sfpass",
+	"style" : 
+	{
+		"navigationBarTitleText" : "胜负过关详情"
+	}
+},
+{
+	"path" : "pages/tabBar/record/component/qxc/qxc",
+	"style" : 
+	{
+		"navigationBarTitleText" : "七星彩详情"
+	}
+},
+{
+	"path" : "pages/tabBar/record/component/dlt/dlt",
+	"style" : 
+	{
+		"navigationBarTitleText" : "大乐透详情"
+	}
+},
+{
+	"path" : "pages/tabBar/record/component/order/order",
+	"style" : 
+	{
+		"navigationBarTitleText" : "选号方案提交"
+	}
+},
+{
+    "path": "uni_modules/rt-uni-update/components/rt-uni-update/rt-uni-update",
+    "style": {
+        "app-plus": {
+            "animationDuration": 200,
+            "animationType": "fade-in",
+            "background": "transparent",
+            "backgroundColorTop": "transparent",
+            "popGesture": "none",
+            "scrollIndicator": false,
+            "titleNView": false
+        },
+        "disableScroll": true
+    }
+},
+{
+	"path" : "pages/appInfo/appInfo",
+	"style" : 
+	{
+		"navigationBarTitleText" : "关于店铺"
+	}
+},
+{
+	"path" : "pages/appInfo/shopInfo/shopInfo",
+	"style" : 
+	{
+		"navigationBarTitleText" : "店铺服务介绍"
+	}
+},
+{
+	"path" : "pages/personal/component/nick/nick",
+	"style" : 
+	{
+		"navigationBarTitleText" : "更改昵称"
+	}
+},
+{
+	"path" : "pages/personal/component/phonenumber/phonenumber",
+	"style" : 
+	{
+		"navigationBarTitleText" : "更改手机号"
+	}
+},
+{
+	"path" : "pages/personal/component/email/email",
+	"style" : 
+	{
+		"navigationBarTitleText" : "更改邮箱"
+	}
+},
+{
+	"path" : "pages/hm/hm",
+	"style" : 
+	{
+		"navigationBarTitleText" : "敬请期待"
+	}
+},
+{
+	"path" : "pages/live/live",
+	"style" : 
+	{
+		"navigationBarTitleText" : "比分直播"
+	}
+},
+{
+	"path" : "pages/choose/component/football/description/description",
+	"style" : 
+	{
+		"navigationBarTitleText" : "竞彩足球玩法说明"
+	}
+},
+{
+	"path" : "pages/choose/component/football/score/score",
+	"style" : 
+	{
+		"navigationBarTitleText" : "即时比分"
+	}
+},
+{
+	"path" : "pages/choose/component/football/lotteryResult/lotteryResult",
+	"style" : 
+	{
+		"navigationBarTitleText" : "开奖结果"
+	}
+},
+{
+	"path" : "pages/choose/component/basketball/description/description",
+	"style" : 
+	{
+		"navigationBarTitleText" : "竞彩篮球玩法说明"
+	}
+},
+{
+	"path" : "pages/choose/component/basketball/score/score",
+	"style" : 
+	{
+		"navigationBarTitleText" : "即时比分"
+	}
+},
+{
+	"path" : "pages/choose/component/basketball/lotteryResult/lotteryResult",
+	"style" : 
+	{
+		"navigationBarTitleText" : "开奖结果"
+	}
+},
+{
+	"path" : "pages/choose/component/football14/description/description",
+	"style" : 
+	{
+		"navigationBarTitleText" : "足彩14场玩法说明"
+	}
+},
+{
+	"path" : "pages/choose/component/football14/score/score",
+	"style" : 
+	{
+		"navigationBarTitleText" : "即时比分"
+	}
+},
+{
+	"path" : "pages/choose/component/football14/lotteryResult/lotteryResult",
+	"style" : 
+	{
+		"navigationBarTitleText" : "开奖结果"
+	}
+},
+{
+	"path" : "pages/choose/component/football9/description/description",
+	"style" : 
+	{
+		"navigationBarTitleText" : "足彩任选九玩法说明"
+	}
+},
+{
+	"path" : "pages/choose/component/football9/score/score",
+	"style" : 
+	{
+		"navigationBarTitleText" : "即时比分"
+	}
+},
+{
+	"path" : "pages/choose/component/football9/lotteryResult/lotteryResult",
+	"style" : 
+	{
+		"navigationBarTitleText" : "开奖结果"
+	}
+},
+{
+	"path" : "pages/choose/component/bjdc/description/description",
+	"style" : 
+	{
+		"navigationBarTitleText" : "北京单场玩法说明"
+	}
+},
+{
+	"path" : "pages/choose/component/bjdc/score/score",
+	"style" : 
+	{
+		"navigationBarTitleText" : "即时比分"
+	}
+},
+{
+	"path" : "pages/choose/component/bjdc/lotteryResult/lotteryResult",
+	"style" : 
+	{
+		"navigationBarTitleText" : "开奖结果"
+	}
+},
+{
+	"path" : "pages/choose/component/dlt/lotteryResult/lotteryResult",
+	"style" : 
+	{
+		"navigationBarTitleText" : "开奖结果"
+	}
+},
+{
+	"path" : "pages/choose/component/dlt/description/description",
+	"style" : 
+	{
+		"navigationBarTitleText" : "大乐透玩法说明"
+	}
+},
+{
+	"path" : "pages/choose/component/seven/lotteryResult/lotteryResult",
+	"style" : 
+	{
+		"navigationBarTitleText" : "历史开奖"
+	}
+},
+{
+	"path" : "pages/choose/component/seven/description/description",
+	"style" : 
+	{
+		"navigationBarTitleText" : "七星彩玩法说明"
+	}
+},
+{
+	"path" : "pages/choose/component/three/lotteryResult/lotteryResult",
+	"style" : 
+	{
+		"navigationBarTitleText" : "历史开奖"
+	}
+},
+{
+	"path" : "pages/choose/component/three/description/description",
+	"style" : 
+	{
+		"navigationBarTitleText" : "排列3玩法说明"
+	}
+},
+{
+	"path" : "pages/choose/component/five/lotteryResult/lotteryResult",
+	"style" : 
+	{
+		"navigationBarTitleText" : "历史开奖"
+	}
+},
+{
+	"path" : "pages/choose/component/five/description/description",
+	"style" : 
+	{
+		"navigationBarTitleText" : "排列5玩法说明"
+	}
+}
+],
+	"subPackages": [],
+	"globalStyle": {
+		"pageOrientation": "portrait",
+		"navigationBarTitleText": "Hello uniapp",
+		"navigationBarTextStyle": "white",
+		"navigationBarBackgroundColor": "#cc0002",
+		"backgroundColor": "#F8F8F8",
+		"backgroundColorTop": "#F4F5F6",
+		"backgroundColorBottom": "#F4F5F6",
+		"mp-360": {
+			"navigationStyle": "custom"
+		},
+		"h5": {
+			"maxWidth": 1190,
+			"navigationBarTextStyle": "black",
+			"navigationBarBackgroundColor": "#F1F1F1"
+		}
+
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#cc0002",
+		"borderStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"list": [{
+				"pagePath": "pages/tabBar/home/home",
+				"iconPath": "static/home.png",
+				"selectedIconPath": "static/homeHL.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/tabBar/ledger/ledger",
+				"iconPath": "static/ledger.png",
+				"selectedIconPath": "static/ledgerHL.png",
+				"text": "店内账本"
+			}, {
+				"pagePath": "pages/tabBar/record/record",
+				"iconPath": "static/record.png",
+				"selectedIconPath": "static/recordHL.png",
+				"text": "选号记录"
+			}, {
+				"pagePath": "pages/tabBar/my/my",
+				"iconPath": "static/my.png",
+				"selectedIconPath": "static/myHL.png",
+				"text": "我的账户"
+			}
+		]
+	}
+}

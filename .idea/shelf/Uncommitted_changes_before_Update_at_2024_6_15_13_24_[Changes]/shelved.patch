@@ -1,0 +1,15 @@
+Index: uniCloud-aliyun/cloudfunctions/oneClickLogin/oneClickLogin.param.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/uniCloud-aliyun/cloudfunctions/oneClickLogin/oneClickLogin.param.json b/uniCloud-aliyun/cloudfunctions/oneClickLogin/oneClickLogin.param.json
+new file mode 100644
+--- /dev/null	(date 1718376953721)
++++ b/uniCloud-aliyun/cloudfunctions/oneClickLogin/oneClickLogin.param.json	(date 1718376953721)
+@@ -0,0 +1,4 @@
++// 本文件中的json内容将在云函数【运行】时作为参数传给云函数。
++// 配置教程参考：https://uniapp.dcloud.net.cn/uniCloud/rundebug.html#runparam
++{
++}
+\ No newline at end of file

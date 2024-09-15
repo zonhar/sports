@@ -1,0 +1,7 @@
+{
+  "name": "oneClickLogin",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-verify": {}
+  }
+}
