@@ -22,19 +22,6 @@
 4. 开奖
 5. APP远程升级
 6. 支持扫码加店
-<center>
-<img src="./image-20240915173840747.png" alt="image-20240915173840747=" style="zoom:40%;" />
-<img src="./image-20240915174722481.png" alt="image-2024091517472248" style="zoom:40%;" />
-<img src="./image-20240915173911459.png" alt="image-20240915173911459" style="zoom:40%;" />
-    <img src="./image-20240915175858889.png" alt="image-20240915175858889" style="zoom:40%;" />
-    <img src="./image-20240915175949249.png" alt="image-20240915175949249" style="zoom:40%;" />
-    <img src="./image-20240915180032496.png" alt="image-20240915180032496" style="zoom:40%;" />
-</center>
-
-
-
-
-
 ### 其他项目
 
 [分享一款提升彩票店管理效率的终极利器！-CSDN博客](https://blog.csdn.net/weixin_40049583/article/details/142282793)
@@ -46,6 +33,17 @@
 **VX: yscxy168**
 
 <img src="./image-20240915175546218.png" alt="image-20240915175546218=" style="zoom:40%;" />
+
+### 项目截图
+
+<center>
+<img src="./image-20240915173840747.png" alt="image-20240915173840747=" style="zoom:30%;" />
+<img src="./image-20240915174722481.png" alt="image-2024091517472248" style="zoom:30%;" />
+<img src="./image-20240915173911459.png" alt="image-20240915173911459" style="zoom:30%;" />
+    <img src="./image-20240915175858889.png" alt="image-20240915175858889" style="zoom:30%;" />
+    <img src="./image-20240915175949249.png" alt="image-20240915175949249" style="zoom:30%;" />
+    <img src="./image-20240915180032496.png" alt="image-20240915180032496" style="zoom:30%;" />
+</center>
 
 ### 免责声明
 
